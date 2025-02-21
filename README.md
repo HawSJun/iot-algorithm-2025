@@ -91,9 +91,9 @@ https://github.com/user-attachments/assets/0c3a6db5-c6c2-476f-916e-d4ae96638768
 ## 7일차
 - 자료구조/알고리즘
     - 정렬
-        - 퀵 정렬
-        - 정렬 알고리즘 응용
-    - 동적 계획법
+        - 퀵 정렬 [노트북](./day06/da04_sort.ipynb)
+        - 정렬 알고리즘 응용 : [파이썬](./day07/da02_image_process.py)
+    - 동적 계획법 : [노트북](./day07/da03_dynamic_programming.ipynb)
 
 ## 8일차
 - 자료구조/알고리즘
